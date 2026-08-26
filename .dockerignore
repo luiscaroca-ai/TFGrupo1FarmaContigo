@@ -1,0 +1,9 @@
+# Nunca dentro de la imagen:
+**/.env
+**/__pycache__/
+**/*.pyc
+__MACOSX/
+trabajo-final-html/
+*.pdf
+*.docx
+*.png
